@@ -1,0 +1,13 @@
+{
+    "train_r2": 0.46598096250267496,
+    "test_r2": -3.1371878957647397,
+    "feature_importances": {
+        "stringency_index": 0.4585542388960659,
+        "population_density": 0.1780118979720821,
+        "median_age": 0.1553807576753202,
+        "human_development_index": 0.12902109754315166,
+        "hospital_beds_per_thousand": 0.07903200791338012,
+        "grocery_mobility_lag14": 0.0,
+        "workplace_mobility_lag14": 0.0
+    }
+}

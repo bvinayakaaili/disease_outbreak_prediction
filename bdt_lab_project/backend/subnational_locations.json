@@ -1,0 +1,57 @@
+[
+  {
+    "country_iso": "IND",
+    "place": "Delhi",
+    "population": 32000000,
+    "population_density": 11000,
+    "median_age": 31.0,
+    "human_development_index": 0.75,
+    "hospital_beds_per_thousand": 2.4,
+    "vulnerability_index": 0.68,
+    "description": "Dense urban metro with high mobility and intensive health demand"
+  },
+  {
+    "country_iso": "IND",
+    "place": "Maharashtra",
+    "population": 120000000,
+    "population_density": 365,
+    "median_age": 31.5,
+    "human_development_index": 0.74,
+    "hospital_beds_per_thousand": 2.2,
+    "vulnerability_index": 0.6,
+    "description": "Large western state with strong urban-rural variation"
+  },
+  {
+    "country_iso": "USA",
+    "place": "California",
+    "population": 39000000,
+    "population_density": 255,
+    "median_age": 37.2,
+    "human_development_index": 0.92,
+    "hospital_beds_per_thousand": 2.7,
+    "vulnerability_index": 0.55,
+    "description": "Large state with diverse urban and rural transmission dynamics"
+  },
+  {
+    "country_iso": "USA",
+    "place": "New York",
+    "population": 19000000,
+    "population_density": 420,
+    "median_age": 38.3,
+    "human_development_index": 0.94,
+    "hospital_beds_per_thousand": 3.1,
+    "vulnerability_index": 0.57,
+    "description": "Highly connected metropolitan region with dense mobility"
+  },
+  {
+    "country_iso": "GBR",
+    "place": "London",
+    "population": 9000000,
+    "population_density": 5650,
+    "median_age": 35.5,
+    "human_development_index": 0.95,
+    "hospital_beds_per_thousand": 2.8,
+    "vulnerability_index": 0.58,
+    "description": "Major urban hub with high population density"
+  }
+]

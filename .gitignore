@@ -1,0 +1,16 @@
+.venv/
+venv/
+node_modules/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+.idea/
+*.log
+*.tmp
+
+# Ignore raw data directory (exceeds GitHub size limits)
+bdt_lab_project/raw/
+
+# Ignore compiled database
+*.db
