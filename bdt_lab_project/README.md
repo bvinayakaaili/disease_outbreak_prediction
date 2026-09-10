@@ -147,4 +147,4 @@ This will open two terminals and start:
 ### Troubleshooting
 
 - If the backend fails to start, make sure Python and the required packages are installed.
-- If the frontend fails to start, run `npm install` inside the frontend folder first.
+- If the frontend fails to start, run `npm install` inside the frontend folder first..
